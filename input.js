@@ -1,0 +1,2 @@
+MemoizeMe('caption');
+MemoizeMe('title');
